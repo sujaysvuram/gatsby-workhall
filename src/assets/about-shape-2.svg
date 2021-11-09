@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="316px" viewBox="0 0 479 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>about-shape 2</title>
+    <defs>
+        <path d="M352,0 L352,58 C352,62.418278 355.581722,66 360,66 L360,66 L443,66 L443,174 L332,174 C327.665086,174 324.135457,177.447838 324.003807,181.750821 L324,182 L324,223 L298,223 C293.665086,223 290.135457,226.447838 290.003807,230.750821 L290,231 L290,280 L8,280 C3.581722,280 4.09379668e-15,276.418278 0,272 L0,8 C-1.42926142e-15,3.581722 3.581722,4.36433818e-15 8,0 L352,0 Z M290,280 L282,280 C286.418278,280 290,276.418278 290,272 L290,272 L290,280 Z M324,223 L316,223 C320.418278,223 324,219.418278 324,215 L324,215 L324,223 Z M443,174 L435,174 C439.418278,174 443,170.418278 443,166 L443,166 L443,174 Z M443,66 L435,66 C439.418278,66 443,69.581722 443,74 L443,74 L443,66 Z M352,0 L344,0 C348.418278,0 352,3.581722 352,8 L352,8 L352,0 Z" id="path-1"></path>
+        <filter x="-5.6%" y="-8.9%" width="113.1%" height="120.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About---Web" transform="translate(-748.000000, -658.000000)">
+            <g id="our-mission" transform="translate(247.000000, 620.000000)">
+                <g id="Group-4" transform="translate(482.500000, 52.000000)">
+                    <g id="about-shape" transform="translate(32.500000, 0.000000)">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="Save-people-time-by" font-family="Montserrat-Bold, Montserrat" font-size="48" font-weight="bold" letter-spacing="-1.09090909">
+                            <tspan x="30" y="76" fill="#48B387">Save people</tspan>
+                            <tspan x="30" y="134" fill="#48B387">time</tspan>
+                            <tspan x="141.892364" y="134" fill="#1F243D"> by making</tspan>
+                            <tspan x="30" y="192" fill="#1F243D">work more</tspan>
+                            <tspan x="30" y="250" fill="#1F243D">futuristic.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,389 @@
+.abtus {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.09px;
+
+  color: #24aac4;
+}
+
+.A-great-workplace-co {
+  /* text-align: left; */
+  font-family: Montserrat;
+  padding-top: 1rem;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: -0.44px;
+  color: #7c828d;
+  @media screen and (min-width: 1200px) {
+    width: 403px;
+  }
+}
+
+.core-values {
+  width: 102px;
+  height: 15px;
+  display: block;
+  margin-top: 75px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.09px;
+  color: #24aac4;
+}
+
+.ourcorevalues {
+  display: block;
+  margin: -11px auto 166px;
+  font-family: Montserrat;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.14px;
+  text-align: center;
+  color: #1f243d;
+
+  @media screen and (max-width: 417px) {
+    margin: 5px auto 166px;
+    font-size: 30px;
+  }
+}
+
+.team {
+  width: auto;
+  height: 15px;
+  margin-top: 21px;
+  margin-bottom: 12px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.7;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.09px;
+  text-align: center;
+  color: #fff;
+}
+
+.stockimages {
+  margin-top: 3rem;
+  background: linear-gradient(45deg, #72be44 0%, #00a0fd 100%);
+  padding: 2rem 0;
+  height: 68rem;
+}
+
+.meettheteam {
+  /* width: auto; */
+  /* height: 124px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Montserrat;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.14px;
+  text-align: center;
+  color: #fff;
+
+  @media screen and (max-width: 400px) {
+    font-size: 30px;
+  }
+}
+
+.workhallers {
+  display: block;
+  width: 703px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 9px;
+  margin-bottom: auto;
+  opacity: 0.8;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: -0.44px;
+  text-align: center;
+  justify-content: center;
+  color: #fff;
+}
+
+@media (max-width: $lg) {
+  .workhallers {
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12.5px;
+  }
+}
+
+.mission {
+  font-family: Montserrat;
+  font-size: 12px;
+  padding-left: 1rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.09px;
+  color: #24aac4;
+}
+
+.ourmission {
+  font-family: Montserrat;
+  font-size: 50px;
+  padding-left: 1rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.14px;
+  color: #1f243d;
+
+  @media screen and (max-width: 400px) {
+    font-size: 30px;
+  }
+}
+
+.loveproductivity {
+  /* width: 440px; */
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  text-align: justify;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: -0.39px;
+  color: #7c828d;
+
+  @media screen and (min-width: 1200px) {
+    width: 440px;
+  }
+}
+
+.Save-people-time-by {
+  font-family: Montserrat;
+  font-size: 44px;
+  font-weight: bold;
+  width: 363px;
+  height: 224px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.09px;
+  color: #1f243d;
+
+  @media screen and (max-width: 1200px) {
+    margin-left: 1rem;
+    font-size: 33px;
+  }
+}
+.Save-people-time-by .text-style-1 {
+  color: #48b387;
+}
+
+.mission-column1 {
+  margin-top: 109px;
+}
+
+.card-mission {
+  margin-top: 90px;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  position: relative;
+  /* overflow-wrap: break-word; */
+  white-space: pre-wrap;
+  /* word-wrap: break-word; */
+  width: 391px;
+  height: 250px;
+  border-radius: 8px;
+  box-shadow: 4px 4px 18px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+
+  @media screen and (max-width: 1200px) {
+    margin-left: 3rem;
+    width: 70%;
+  }
+}
+
+.graydots {
+  position: absolute;
+  left: -3rem;
+  top: 3rem;
+}
+
+.core-value-cards {
+  position: relative;
+  top: -8rem;
+}
+.slick-slide {
+  display: none;
+  float: left;
+  height: 100%;
+  padding: 15px;
+}
+
+.values {
+  padding: 30px;
+  border-radius: 4px;
+  background: #fff;
+
+  span {
+    color: #a9afb9;
+    font-size: 36px;
+    font-weight: 600;
+  }
+
+  h4 {
+    font-size: 20px;
+    color: #a9afb9;
+    font-weight: 600;
+  }
+}
+
+.slick-active.slick-center {
+  .values {
+    background: $dark;
+    background: -webkit-linear-gradient(71deg, $dark, $dark-right);
+    background: linear-gradient(71deg, $dark, $dark-right);
+    min-height: 200px;
+
+    h4 {
+      color: #fff;
+    }
+
+    span {
+      color: #48b387;
+    }
+  }
+}
+
+.slick-prev {
+  left: 21px !important;
+  z-index: 50 !important;
+}
+.slick-next {
+  right: 39px !important;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  content: "" !important;
+}
+
+.slick-arrow {
+  position: relative;
+  top: 13rem;
+}
+
+.about-banner {
+  position: relative;
+  margin-top: 57px;
+  margin-bottom: 20px;
+
+  img.dots {
+    position: absolute;
+    left: 4rem;
+    top: 4rem;
+
+    @media screen and (max-width: 1200px) {
+      position: absolute;
+      left: 2.5rem;
+      top: 3rem;
+      width: 35%;
+    }
+  }
+
+  img.video {
+    position: relative;
+    left: 5rem;
+
+    @media screen and (max-width: 1200px) {
+      position: relative;
+      left: 2rem;
+      width: 75%;
+    }
+  }
+  @media screen and (max-width: 764px) {
+    order: 2;
+    top: 9rem;
+  }
+}
+
+.banner-right {
+  display: block;
+  padding-top: 10rem;
+  justify-content: center;
+  align-items: center;
+
+  @media screen and (max-width: 1200px) {
+    display: block;
+    padding-top: 4rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media screen and (max-width: 764px) {
+    display: block;
+    padding-top: 0rem;
+    position: relative;
+    bottom: -7rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.weareworkhall {
+  font-family: Montserrat;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.14px;
+  color: #fff;
+
+  @media screen and (max-width: 769px) {
+    font-size: 34px;
+  }
+  @media screen and (max-width: 992px) {
+    font-size: 40px;
+  }
+}
+
+.mission-column-left {
+  @media screen and (min-width: 1200px) {
+    position: relative;
+    left: 5rem;
+  }
+}
